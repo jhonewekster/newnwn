@@ -1,0 +1,17 @@
+{
+    "name": "hp/boltonebyone",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Boltonebyone\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Testos"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^16.5"
+    }
+}

@@ -1,0 +1,10 @@
+# START  BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://texastreasures.shop/sitemap.xml
+# ---------------------------
+# END  BLOCK
+
+

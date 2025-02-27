@@ -1,0 +1,161 @@
+.mainos {
+    margin: 0 auto;
+    padding: 4rem 2rem;
+}
+
+/* Header styles */
+.headros {
+    text-align: center;
+    margin-bottom: 4rem;
+    animation: fadeIn 0.6s ease-out;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.headros h1 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: #111827;
+}
+
+
+
+.shipping-card {
+    background: #F0FDF4;
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.shipping-icon {
+    background: #DCFCE7;
+    padding: 0.5rem;
+    border-radius: 9999px;
+    width: fit-content;
+}
+
+.shipping-content {
+    margin-left: 1rem;
+}
+
+.shipping-card h3 {
+    color: #166534;
+    font-size: 1.125rem;
+    margin-bottom: 0.5rem;
+}
+
+.shipping-card p {
+    color: #15803D;
+    margin-bottom: 1rem;
+}
+
+.shipping-card ul {
+    list-style: none;
+    color: #15803D;
+}
+
+.shipping-card li {
+    margin-bottom: 0.5rem;
+}
+
+.category-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+
+.tab {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    border: none;
+    cursor: pointer;
+    font-size: 0.875rem;
+    transition: background-color 0.2s;
+}
+
+.tab.active {
+    background: black;
+    color: white;
+}
+
+.tab:not(.active) {
+    color: #4B5563;
+}
+
+.tab:not(.active):hover {
+    background: #F3F4F6;
+}
+
+.faq-list {
+    margin-bottom: 4rem;
+}
+
+.faq-item {
+    border: 1px solid #E5E7EB;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    overflow: hidden;
+}
+
+.faq-question {
+    width: 100%;
+    text-align: left;
+    padding: 1rem 1.5rem;
+    background: none;
+    border: none;
+    font-size: 1rem;
+    color: #111827;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.faq-answer {
+    padding: 0 1.5rem 1rem;
+    color: #4B5563;
+    display: none;
+}
+
+.faq-item.active .faq-answer {
+    display: block;
+}
+
+
+
+.contact-info {
+    color: #4B5563;
+    line-height: 1.5;
+}
+
+@media (max-width: 640px) {
+    .category-tabs {
+        gap: 0.5rem;
+    }
+
+    .tab {
+        padding: 0.5rem 0.75rem;
+        font-size: 0.75rem;
+    }
+}

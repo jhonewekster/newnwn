@@ -1,0 +1,224 @@
+.container-our-story {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 64px 24px;
+}
+
+/* Mission Section */
+.mission-section {
+    text-align: center;
+    margin-bottom: 96px;
+}
+
+.mission-icon {
+    width: 48px;
+    height: 48px;
+    margin: 0 auto 24px;
+    color: #111827;
+}
+
+.mission-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: #111827;
+}
+
+.mission-text {
+    max-width: 640px;
+    margin: 0 auto;
+    color: #4B5563;
+    line-height: 1.6;
+}
+
+/* Core Values Grid */
+.values-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+    margin: 48px 0 96px;
+}
+
+.value-card {
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 32px 24px;
+}
+
+.value-icon {
+    width: 40px;
+    height: 40px;
+    margin: 0 auto 16px;
+}
+
+.value-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #111827;
+}
+
+.value-description {
+    font-size: 14px;
+    color: #6B7280;
+    line-height: 1.5;
+}
+
+/* Community First */
+.community-icon {
+    color: #2563eb;
+}
+
+/* Customer Care */
+.care-icon {
+    color: #dc2626;
+}
+
+/* Quality First */
+.quality-icon {
+    color: #059669;
+}
+
+/* Values Section */
+.values-section {
+    text-align: center;
+    margin-bottom: 64px;
+    padding: 64px 0;
+    background-color: #F9FAFB;
+}
+
+.values-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: #111827;
+}
+
+.values-subtitle {
+    color: #4B5563;
+    margin-bottom: 48px;
+}
+
+/* Service Columns */
+.service-columns {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 32px;
+    margin-bottom: 96px;
+}
+
+.service-column {
+    background: white;
+    padding: 32px;
+    border-radius: 12px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.service-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: #111827;
+}
+
+.service-description {
+    color: #4B5563;
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 24px;
+}
+
+.service-list {
+    list-style: none;
+    padding: 0;
+}
+
+.service-list li {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+    color: #4B5563;
+    font-size: 14px;
+}
+
+.service-list i {
+    width: 20px;
+    height: 20px;
+    color: #059669;
+}
+
+/* Contact Section */
+.contact-section {
+    text-align: center;
+}
+
+.contact-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: #111827;
+}
+
+.contact-subtitle {
+    color: #4B5563;
+    margin-bottom: 48px;
+}
+
+.contact-methods {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.contact-method {
+    text-align: center;
+}
+
+.contact-method-icon {
+    width: 40px;
+    height: 40px;
+    margin: 0 auto 16px;
+}
+
+.contact-method-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #111827;
+}
+
+.contact-method-text {
+    color: #4B5563;
+    font-size: 14px;
+}
+
+.contact-method.visit .contact-method-icon {
+    color: #2563eb;
+}
+
+.contact-method.call .contact-method-icon {
+    color: #059669;
+}
+
+.contact-method.email .contact-method-icon {
+    color: #dc2626;
+}
+
+@media (max-width: 768px) {
+    .values-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .service-columns {
+        grid-template-columns: 1fr;
+    }
+
+    .contact-methods {
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Texas Treasures</title>
+    <link>https://texastreasures.shop/</link>
+    <description>Discover our curated collection of Texas-themed apparel and gifts, perfect for all ages and occasions.</description>
+
+    <item>
+      <g:id>3</g:id>
+      <g:title>Texas Themed Toddler and Youth T-Shirt | Western Kid's Shirt</g:title>
+      <g:description>Dress your little one in Texas pride with our Texas Texas Texas Toddler &amp; Youth T-Shirt! This stylish and comfortable Western-themed tee is perfect for boys and girls who love the Lone Star State.</g:description>
+      <g:link>https://www.texastreasures.shop/product/texas-themed-toddler</g:link>
+      <g:image_link>https://www.texastreasures.shop/product-image/Texas%20Texas%20Texas%20Toddler%20and%20Youth%20TShirt.png</g:image_link>
+      <g:price>18.99 USD</g:price>
+      <g:brand>Texas Treasures</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:shipping>
+        <g:country>US</g:country>
+        <g:service>Standard shipping</g:service>
+        <g:price>0.00 USD</g:price>
+      </g:shipping>
+      <g:tax>
+        <g:country>US</g:country>
+        <g:rate>0.08</g:rate>
+      </g:tax>
+      <g:product_type>Clothing &amp; Accessories &gt; Kids &amp; Baby &gt; Kids' Clothing</g:product_type>
+      <g:custom_label_0>Apparel</g:custom_label_0>
+      <!-- Add missing attributes -->
+      <g:color>Multiple Colors</g:color> <!-- Replace with actual color(s) -->
+      <g:age_group>kids</g:age_group> <!-- Options: newborn, infant, toddler, kids -->
+      <g:gender>unisex</g:gender> <!-- Options: male, female, unisex -->
+      <g:size>2T 3T 4T 5T</g:size> <!-- Replace with actual sizes -->
+    </item>
+
+    <item>
+      <g:id>5</g:id>
+      <g:title>Texas Baby Bodysuit | Western Baby Clothes | Baby Shower Gift</g:title>
+      <g:description>Dress your little one in Texas pride with our Texas Treasures exclusive Texas Baby Bodysuit! Designed for comfort and durability, this adorable baby shirt makes the perfect baby shower gift or everyday outfit for your little cowboy or cowgirl.</g:description>
+      <g:link>https://www.texastreasures.shop/product/texas-baby-bodysuit</g:link>
+      <g:image_link>https://www.texastreasures.shop/product-image/Texas%20Baby%20Bodysuit%20Texas%20Treasures.png</g:image_link>
+      <g:price>14.95 USD</g:price>
+      <g:brand>Texas Treasures</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:shipping>
+        <g:country>US</g:country>
+        <g:service>Standard shipping</g:service>
+        <g:price>0.00 USD</g:price>
+      </g:shipping>
+      <g:tax>
+        <g:country>US</g:country>
+        <g:rate>0.08</g:rate>
+      </g:tax>
+      <g:product_type>Clothing &amp; Accessories &gt; Baby &amp; Toddler Clothing</g:product_type>
+      <g:custom_label_0>Apparel</g:custom_label_0>
+      <!-- Add missing attributes -->
+      <g:color>Multiple Colors</g:color> <!-- Replace with actual color(s) -->
+      <g:age_group>infant</g:age_group> <!-- Options: newborn, infant, toddler, kids -->
+      <g:gender>unisex</g:gender> <!-- Options: male, female, unisex -->
+      <g:size>0-3M 3-6M 6-12M</g:size> <!-- Replace with actual sizes -->
+    </item>
+
+    <item>
+      <g:id>9</g:id>
+      <g:title>Grandpa Shirt | Custom Comfort Colors Tee | Grandpa Est. 2025 | Father's Day Gift</g:title>
+      <g:description>Celebrate Grandpa in style with our Texas Treasures exclusive Grandpa Shirt! Crafted from premium Comfort Colors fabric, this custom-designed tee is the perfect Father's Day Gift or a special keepsake for the newest grandpa of 2025.</g:description>
+      <g:link>https://www.texastreasures.shop/product/grandpa-shirt-custom</g:link>
+      <g:image_link>https://www.texastreasures.shop/product-image/Grandpa%20Shirt%20Texas%20Treasures.png</g:image_link>
+      <g:price>12.99 USD</g:price>
+      <g:brand>Texas Treasures</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:shipping>
+        <g:country>US</g:country>
+        <g:service>Standard shipping</g:service>
+        <g:price>0.00 USD</g:price>
+      </g:shipping>
+      <g:tax>
+        <g:country>US</g:country>
+        <g:rate>0.08</g:rate>
+      </g:tax>
+      <g:product_type>Clothing &amp; Accessories &gt; Men's Clothing</g:product_type>
+      <g:custom_label_0>Apparel</g:custom_label_0>
+      <!-- Add missing attributes -->
+      <g:color>Multiple Colors</g:color> <!-- Replace with actual color(s) -->
+      <g:age_group>adult</g:age_group> <!-- Options: adult -->
+      <g:gender>male</g:gender> <!-- Options: male, female, unisex -->
+      <g:size>S M L XL</g:size> <!-- Replace with actual sizes -->
+    </item>
+  </channel>
+</rss>
